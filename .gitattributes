@@ -1,0 +1,3 @@
+# Spécifier les fichiers JavaScript
+*.js linguist-language=JavaScript
+*.vue linguist-language=Vue
